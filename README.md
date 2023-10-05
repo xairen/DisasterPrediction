@@ -20,15 +20,7 @@ the impact of future natural calamities
 
 # Datasets
 
-1. NOAA Weather
-  a. Precipitation
-  b. Humidity
-  c. Average Temperature
-  d. Heating Days
-  e. Cooling Days
-  f. Maximum Temperature
-  g. Minimum Temperature
-
+1. NOAA Weather - Precipitation, Average Temperature, Heating Days, Cooling Days, Maximum Temperature, Minimum Temperature
 2. FEMA Disaster
 3. US Census (Population)
 
