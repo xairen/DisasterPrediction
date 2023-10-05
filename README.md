@@ -1,5 +1,7 @@
 # Machine Learning based Natural Disaster Prediction
 
+##Abstract 
+
 Natural disasters cause significant damage to property and pose a threat to human
 lives. To mitigate the impact of these disasters, emergency management teams need to
 have preventive strategies in place before these incidents occur. The capstone project
