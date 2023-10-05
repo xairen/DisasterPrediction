@@ -1,6 +1,6 @@
 # Machine Learning based Natural Disaster Prediction
 
-##Abstract 
+**Abstract **
 
 Natural disasters cause significant damage to property and pose a threat to human
 lives. To mitigate the impact of these disasters, emergency management teams need to
